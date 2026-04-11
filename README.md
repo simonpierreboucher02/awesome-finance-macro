@@ -257,6 +257,7 @@
 | [TradingView](https://www.tradingview.com) | Free / $15–$60/mo | ![Best For](https://img.shields.io/badge/Best%20For-Charts%20%7C%20Screening-blue?style=flat-square) |
 | [Koyfin](https://www.koyfin.com) | Free / ~$20/mo | ![Best For](https://img.shields.io/badge/Best%20For-Macro%20%7C%20Equity%20Dashboards-green?style=flat-square) |
 | [Fiscal.ai](https://fiscal.ai) | Free / $49/mo | ![Best For](https://img.shields.io/badge/Best%20For-Fundamentals%20%7C%2013F-purple?style=flat-square) |
+| [13F Insight](https://13finsight.com) | Freemium | ![Best For](https://img.shields.io/badge/Best%20For-13F%20Research%20%7C%20Manager%20Tracking-indigo?style=flat-square) |
 | [Macrotrends](https://www.macrotrends.net) | Free | ![Best For](https://img.shields.io/badge/Best%20For-Long--Term%20Macro%20Charts-orange?style=flat-square) |
 | [Simply Wall St](https://simplywall.st) | Freemium | ![Best For](https://img.shields.io/badge/Best%20For-Equity%20Research-teal?style=flat-square) |
 | [Seeking Alpha](https://seekingalpha.com) | Freemium | ![Best For](https://img.shields.io/badge/Best%20For-News%20%7C%20Analysis-red?style=flat-square) |
