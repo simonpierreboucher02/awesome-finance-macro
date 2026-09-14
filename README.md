@@ -171,6 +171,7 @@
 | [BIS API](https://stats.bis.org/api-doc/v1/) | Banking & financial statistics | ![Access](https://img.shields.io/badge/Access-Free-brightgreen?style=flat-square) |
 | [ECB SDW API](https://sdw-wsrest.ecb.europa.eu) | ECB Statistical Data Warehouse | ![Access](https://img.shields.io/badge/Access-Free-brightgreen?style=flat-square) |
 | [OECD API](https://data.oecd.org/api/) | OECD macro data | ![Access](https://img.shields.io/badge/Access-Free-brightgreen?style=flat-square) |
+| [FXMacroData](https://fxmacrodata.com/documentation/reference) | FX-focused macro indicators, release calendars, central-bank decisions, COT, commodities, and FX data | ![Access](https://img.shields.io/badge/Access-Freemium-blue?style=flat-square) |
 
 ---
 
