@@ -238,6 +238,7 @@
 |-----------|----------|-------------|
 | [Zipline-Reloaded](https://github.com/stefan-jansen/zipline-reloaded) | Python | Open-source backtesting — successor to Zipline |
 | [Backtrader](https://github.com/mementum/backtrader) | Python | Feature-rich backtesting with live trading support |
+| [OpenBacktesting](https://github.com/lucidcog/openbacktesting) | Python | Single-asset historical backtesting with pandas statistics and parameter optimization |
 | [VectorBT](https://github.com/polakowo/vectorbt) | Python | Vectorized backtesting — extremely fast |
 | [Lean (QuantConnect)](https://github.com/QuantConnect/Lean) | C# / Python | Production-grade algorithmic trading engine |
 | [bt](https://github.com/pmorissette/bt) | Python | Flexible backtesting for systematic strategies |
